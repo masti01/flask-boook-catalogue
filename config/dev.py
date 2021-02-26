@@ -1,0 +1,4 @@
+DEBUG = True
+SECRET_KEY = 'ku1206ba'
+SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://testuser:ku1206ba@192.168.122.143/testuser'
+SQLALCHEMY_TRACK_MODIFICATIONS = True
